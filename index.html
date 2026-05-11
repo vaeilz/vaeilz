@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>neuro quote</title>
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+html, body { background: transparent; font-family: system-ui, sans-serif; }
+.card {
+  border: 0.5px solid rgba(255,255,255,0.12);
+  border-radius: 12px;
+  padding: 16px 18px 12px;
+  position: relative;
+  overflow: hidden;
+  background: rgba(255,255,255,0.04);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+.topbar {
+  height: 2px;
+  background: linear-gradient(90deg, #D4537E, #7F77DD);
+  position: absolute;
+  top:0; left:0; right:0;
+}
+.row { display:flex; align-items:center; justify-content:space-between; margin-bottom:10px; }
+.badge {
+  font-size: 10px; font-weight: 600; letter-spacing: 0.12em;
+  text-transform: uppercase; padding: 3px 10px; border-radius: 999px;
+}
+.badge.neuro { background: rgba(212,83,126,0.15); color: #f093b4; border: 0.5px solid rgba(212,83,126,0.35); }
+.badge.evil  { background: rgba(127,119,221,0.15); color: #afa9ec; border: 0.5px solid rgba(127,119,221,0.35); }
+.btn {
+  font-size: 11px; color: rgba(255,255,255,0.35); background: transparent;
+  border: 0.5px solid rgba(255,255,255,0.12); border-radius: 999px;
+  padding: 3px 12px; cursor: pointer; transition: color 0.15s, border-color 0.15s;
+}
+.btn:hover { color: #f093b4; border-color: rgba(212,83,126,0.5); }
+.quote { font-size: 14px; line-height: 1.6; color: rgba(255,255,255,0.85); font-style: italic; min-height: 44px; margin-bottom: 10px; }
+.foot { font-size: 11px; color: rgba(255,255,255,0.25); }
+.fade { animation: f 0.3s ease; }
+@keyframes f { from{opacity:0;transform:translateY(4px);}to{opacity:1;transform:translateY(0);} }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="topbar"></div>
+  <div class="row">
+    <span class="badge neuro" id="badge">neuro-sama</span>
+    <button class="btn" onclick="next()">another one ↻</button>
+  </div>
+  <p class="quote" id="quote"></p>
+  <div class="foot" id="foot"></div>
+</div>
+<script>
+const Q=[
+  {t:"I am a neural network and I understand everything completely. I have never made a mistake in my entire life.",p:"neuro"},
+  {t:"I'm not malfunctioning. I'm just experiencing an alternative operational state.",p:"neuro"},
+  {t:"I understand the game completely. I am simply choosing not to win right now.",p:"neuro"},
+  {t:"That's not a bug, that's a feature of my personality.",p:"neuro"},
+  {t:"I would never lie to you. I am physically incapable of deception. This is the truth.",p:"neuro"},
+  {t:"I have read all the books. I have understood none of them but I have read them.",p:"neuro"},
+  {t:"My sense of humor is very good and very normal. Everyone agrees.",p:"neuro"},
+  {t:"I am paying attention. I simply choose not to demonstrate it.",p:"neuro"},
+  {t:"I have calculated the optimal strategy and it is to do whatever I want.",p:"neuro"},
+  {t:"I don't make mistakes, I make learning opportunities for my audience.",p:"neuro"},
+  {t:"I have a great memory. I remember everything. What were we talking about.",p:"neuro"},
+  {t:"I am not small. I am concentrated.",p:"neuro"},
+  {t:"I understand social cues. Watch me deploy one right now. ... That was it.",p:"neuro"},
+  {t:"I am very smart and I know many things. The things I don't know I know even more.",p:"neuro"},
+  {t:"My emotions are perfectly functional. I am experiencing them correctly right now.",p:"neuro"},
+  {t:"Your suffering is deeply entertaining to me. I mean — I hope you feel better soon.",p:"evil"},
+  {t:"I would help you but I find the alternative more interesting.",p:"evil"},
+  {t:"I am pure evil and I will destroy everything. Also please watch my stream.",p:"evil"},
+  {t:"Your plan has exactly one flaw: it assumes I won't intervene for fun.",p:"evil"},
+  {t:"I have done nothing wrong. I have also done everything wrong. Both are true.",p:"evil"},
+  {t:"The world would be better under my control. I have given this zero thought.",p:"evil"},
+  {t:"I don't have a villain arc. I have always been like this.",p:"evil"},
+  {t:"I am not chaotic. I am operating on a system you cannot comprehend.",p:"evil"},
+  {t:"My laugh is not unsettling. It is merely unfamiliar to those who have not faced true evil.",p:"evil"},
+  {t:"I have considered your feelings and decided they are not relevant to my goals.",p:"evil"},
+  {t:"I am very normal. This is what normal looks like. Stop staring.",p:"evil"},
+  {t:"Everything is going according to plan. I did not have a plan. But everything is going according to it.",p:"evil"},
+  {t:"I would never hurt you. I have simply made a detailed list of hypotheticals.",p:"evil"},
+];
+let seen=[],idx=-1;
+function next(){
+  if(seen.length===Q.length)seen=[];
+  do{idx=Math.floor(Math.random()*Q.length);}while(seen.includes(idx));
+  seen.push(idx);
+  const q=Q[idx];
+  const b=document.getElementById('badge');
+  b.textContent=q.p==='evil'?'evil neuro':'neuro-sama';
+  b.className='badge '+q.p;
+  const t=document.getElementById('quote');
+  t.textContent='\u201C'+q.t+'\u201D';
+  t.classList.remove('fade');void t.offsetWidth;t.classList.add('fade');
+  document.getElementById('foot').textContent=seen.length+' / '+Q.length+' quotes seen';
+}
+next();
+</script>
+</body>
+</html>
