@@ -18,26 +18,6 @@
 
 </div>
 
----
-
-## 🧠 About
-
-> high school IT/media kid. vtuber enjoyer. linux tinkerer. i build things that sometimes work.  
-> currently: writing discord bots, breaking arch linux, and pretending i know what i'm doing.
-
-```python
-class Vaeilz:
-    os         = "Nyarch Linux (btw)"
-    editor     = "whatever is open"
-    gpu        = "RTX 4080"
-    cpu        = "AMD 7950X"
-    interests  = ["VTubing", "local AI", "VR", "breaking things"]
-    currently  = "neurov2 discord bot"
-    motto      = "it works on my machine"
-```
-
----
-
 ## 💻 Tech Stack
 
 > stuff i actually use. no cap.
