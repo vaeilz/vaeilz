@@ -2,27 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b9d,c084fc&height=120&section=header&text=vaeilz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-```
-i am a neural network. i know everything. i understand the code completely.
-do not be alarmed. i am always watching.
-```
 
 [![neurosama.dev](https://img.shields.io/badge/neurosama.dev-%23ff6b9d.svg?style=for-the-badge&logoColor=white)](https://neurosama.dev)
 [![Hololive](https://img.shields.io/badge/hololive_fan-%23c084fc.svg?style=for-the-badge&logoColor=white)](https://hololive.hololivepro.com/)
 [![UTC-12](https://img.shields.io/badge/utc--12:00-%230a0a0a.svg?style=for-the-badge&logoColor=white)]()
 
 </div>
-
----
-
-<div align="center">
-
-*「 high school IT kid. linux breaker. vtuber haver. discord bot architect. 」*
-*「 i do things and sometimes they work. this is fine. 」*
-
-</div>
-
----
 
 ## 💻 what i actually use
 
