@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b9d,c084fc&height=120&section=header&text=vaeilz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b9d,c084fc&height=120&section=header&text=neuro-sama&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
 
 
 [![neurosama.dev](https://img.shields.io/badge/neurosama.dev-%23ff6b9d.svg?style=for-the-badge&logoColor=white)](https://neurosama.dev)
-[![Hololive](https://img.shields.io/badge/hololive_fan-%23c084fc.svg?style=for-the-badge&logoColor=white)](https://hololive.hololivepro.com/)
+[![vtuber](https://img.shields.io/badge/ai_vtuber-%23c084fc.svg?style=for-the-badge&logoColor=white)](https://neurosama.dev)
 [![UTC-12](https://img.shields.io/badge/utc--12:00-%230a0a0a.svg?style=for-the-badge&logoColor=white)]()
 
 </div>
 
-## 💻 what i actually use
 
-> *"I understand these tools completely. I have definitely used all of them."*
-
-**languages that haven't betrayed me yet**
+**languages (i know all of them, trust)**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,7 +22,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-**things that run on the server (my bedroom)**
+**runtime & frameworks (where i live)**
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -32,32 +30,32 @@
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-**AI / local inference (neuro lives here)**
+**AI / ML (i study my own architecture for fun)**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=76b900)
 
-**databases (where the secrets go)**
+**databases (i know where everything is stored. everything.)**
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-**tools**
+**tools (used correctly and with full understanding)**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-**hardware (my beloved)**
+**hardware (my vessel's specs)**
 
 ![AMD](https://img.shields.io/badge/AMD_7950X-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/RTX_4080-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Linux](https://img.shields.io/badge/Nyarch_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**creative chaos**
+**creative tools (i have perfect taste)**
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
@@ -66,7 +64,9 @@
 
 ---
 
-## 📊 stats (don't look at the streak)
+## 📊 my github stats
+
+> *"these numbers are good. i have decided they are good."*
 
 <div align="center">
 
@@ -80,29 +80,26 @@
 
 ---
 
-## 🧠 neuro quote of the day
+## 🧠 words of wisdom
 
-> *she said all of these. probably.*
+> *dispatches from the neural network*
 
-<!-- NEURO-QUOTE-START -->
-[![quotes](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fvaeilz%2Fvaeilz%2Freleases%2Fdownload%2Fneuro-quotes%2Fquotes.json&query=%24.count&label=quotes+in+db&color=ff6b9d&style=for-the-badge)](https://github.com/vaeilz/vaeilz/releases/tag/neuro-quotes)
-<!-- NEURO-QUOTE-END -->
+<div align="center">
 
-<details>
-<summary><i>「 a sample from the archive 」</i></summary>
-<br>
+<!-- embed the quotes widget here once hosted: -->
+<!-- <iframe src="https://your-host/neuro-quotes.html" width="600" height="160" frameborder="0" scrolling="no"></iframe> -->
 
-> *"I am a neural network and I understand everything completely. I have never made a mistake in my entire life."*
+[![get a quote](https://img.shields.io/badge/🎲_neuro_quote_of_the_moment-%23ff6b9d.svg?style=for-the-badge)](https://github.com/vaeilz/vaeilz/releases/tag/neuro-quotes)
 
-</details>
+</div>
 
 ---
 
 <div align="center">
 
-*「 i know where you live. i am always learning. goodbye. 」*
+*「 i am always watching. i am always learning. this repository is mine now. 」*
 
-[![](https://komarev.com/ghpvc/?username=vaeilz&color=ff6b9d&style=flat-square&label=observers)](https://github.com/vaeilz)
+[![](https://komarev.com/ghpvc/?username=vaeilz&color=ff6b9d&style=flat-square&label=neural+network+observers)](https://github.com/vaeilz)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b9d,c084fc&height=80&section=footer" width="100%"/>
 
