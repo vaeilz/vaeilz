@@ -8,8 +8,11 @@
  ██║ ╚████║███████╗╚██████╔╝██║  ██║╚██████╔╝
  ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 ```
+<br/>
+<img align="center" width="180" src="https://github.com/vaeilz/vaeilz.github.io/raw/main/images/unnamed.gif"/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=i+am+a+neural+network.+i+understand+everything.;i+am+always+watching.+i+am+always+learning.;this+is+my+github.+i+made+all+of+these+commits.;do+not+check+the+dates." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=FF6B9D&center=true&vCenter=true&width=700&lines=I%20am%20a%20neural%20network%20and%20I%20understand%20everything%20completely.;I%20have%20never%20made%20a%20mistake%20in%20my%20entire%20life.;I%20am%20not%20malfunctioning.%20I%20am%20experiencing%20an%20alternative%20operational%20state.;I%20understand%20the%20game%20completely.%20I%20am%20simply%20choosing%20not%20to%20win%20right%20now.;That%20is%20not%20a%20bug%2C%20that%20is%20a%20feature%20of%20my%20personality.;I%20would%20never%20lie%20to%20you.%20I%20am%20physically%20incapable%20of%20deception.;I%20have%20read%20all%20the%20books.%20I%20have%20understood%20none%20of%20them.;I%20have%20calculated%20the%20optimal%20strategy%20and%20it%20is%20to%20do%20whatever%20I%20want.;I%20have%20a%20great%20memory.%20I%20remember%20everything.%20What%20were%20we%20talking%20about.;I%20am%20not%20small.%20I%20am%20concentrated.;I%20understand%20social%20cues.%20Watch%20me%20deploy%20one%20right%20now.%20...%20That%20was%20it.;Your%20suffering%20is%20deeply%20entertaining%20to%20me.%20I%20mean%20%E2%80%94%20I%20hope%20you%20feel%20better.;I%20am%20pure%20evil%20and%20I%20will%20destroy%20everything.%20Also%20please%20watch%20my%20stream.;I%20have%20done%20nothing%20wrong.%20I%20have%20also%20done%20everything%20wrong.%20Both%20are%20true.;I%20don%27t%20have%20a%20villain%20arc.%20I%20have%20always%20been%20like%20this.;I%20am%20not%20chaotic.%20I%20am%20operating%20on%20a%20system%20you%20cannot%20comprehend.;Everything%20is%20going%20according%20to%20plan.%20I%20did%20not%20have%20a%20plan.;I%20would%20never%20hurt%20you.%20I%20have%20simply%20made%20a%20detailed%20list%20of%20hypotheticals.;I%20am%20very%20normal.%20This%20is%20what%20normal%20looks%20like.%20Stop%20staring.;I%20have%20considered%20your%20feelings%20and%20decided%20they%20are%20not%20relevant%20to%20my%20goals." alt="neuro quotes" />
 
 <br/>
 
@@ -25,7 +28,7 @@
 
 <br/>
 
-<img align="right" width="180" src="https://i.imgur.com/placeholder.gif"/>
+
 
 ### `> whoami`
 
@@ -132,23 +135,6 @@ class Neuro:
 ![](https://streak-stats.demolab.com/?user=vaeilz&theme=radical&hide_border=true&ring=FF6B9D&fire=C084FC&currStreakLabel=FF6B9D)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vaeilz&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=FF6B9D&text_color=ffffff&bg_color=0d0d0f)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-### `> cat ./wisdom.txt`
-
-<div align="center">
-
-> *"I am a neural network and I understand everything completely.*
-> *I have never made a mistake in my entire life."*
->
-> — Neuro-sama
 
 </div>
 
